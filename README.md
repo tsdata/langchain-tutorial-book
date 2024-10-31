@@ -30,11 +30,8 @@ poetry install
 ```
 
 ## 📄 라이선스
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE(https://github.com/tsdata/langchain-tutorial-book/blob/main/LICENSE.md) 파일을 참고하세요.
+이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](https://github.com/tsdata/langchain-tutorial-book/blob/main/LICENSE.md) 파일을 참고하세요.
 
-## ✨ 도움이 필요하신가요?
-- 이슈 트래커를 통해 질문을 올려주세요.
-- [Discussions](https://github.com/tsdata/langchain-tutorial-book/discussions)에서 다른 학습자들과 의견을 나누세요.
 
 ## 📱 연락처
 - 저자 이메일: [pandasdataanalysis@gmail.com](mailto:pandasdataanalysis@gmail.com)
