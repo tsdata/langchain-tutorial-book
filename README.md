@@ -30,7 +30,7 @@ poetry install
 ```
 
 ## 📄 라이선스
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](https://github.com/tsdata/langchain-tutorial-book/LICENSE.md) 파일을 참고하세요.
+이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE(https://github.com/tsdata/langchain-tutorial-book/blob/main/LICENSE.md) 파일을 참고하세요.
 
 ## ✨ 도움이 필요하신가요?
 - 이슈 트래커를 통해 질문을 올려주세요.
