@@ -29,10 +29,6 @@ pip install -r requirements.txt
 poetry install
 ```
 
-## 📄 라이선스
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](https://github.com/tsdata/langchain-tutorial-book/blob/main/LICENSE.md) 파일을 참고하세요.
-
-
 ## 📱 연락처
 - 저자 이메일: [pandasdataanalysis@gmail.com](mailto:pandasdataanalysis@gmail.com)
 - 유튜브: [https://www.youtube.com/@pandas-data-studio](https://www.youtube.com/@pandas-data-studio)
